@@ -1,4 +1,4 @@
-require "jsonbla"
+require "json"
 require "rack/test"
 
 ENV['RACK_ENV'] = 'test'
