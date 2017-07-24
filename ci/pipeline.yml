@@ -3,6 +3,7 @@ resources:
   type: git
   source:
     uri: https://github.com/carolinebeauchamp/flight-school
+    branch: master
 
 jobs:
 - name: test-app
